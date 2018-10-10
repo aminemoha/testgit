@@ -10,6 +10,8 @@ namespace testgit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("salut");
+            Console.ReadKey();
         }
     }
 }
