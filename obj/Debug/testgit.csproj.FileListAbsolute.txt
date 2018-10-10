@@ -1,0 +1,7 @@
+C:\Users\amine\source\repos\testgit\testgit\bin\Debug\testgit.exe.config
+C:\Users\amine\source\repos\testgit\testgit\bin\Debug\testgit.exe
+C:\Users\amine\source\repos\testgit\testgit\bin\Debug\testgit.pdb
+C:\Users\amine\source\repos\testgit\testgit\obj\Debug\testgit.csprojAssemblyReference.cache
+C:\Users\amine\source\repos\testgit\testgit\obj\Debug\testgit.csproj.CoreCompileInputs.cache
+C:\Users\amine\source\repos\testgit\testgit\obj\Debug\testgit.exe
+C:\Users\amine\source\repos\testgit\testgit\obj\Debug\testgit.pdb
